@@ -35,9 +35,6 @@ Cada filme tem sua própria página de **personagens** e uma seção de **cenas*
     └── personagens/           # imagens dos personagens, por filme
 ```
 
-## ▶️ Como visualizar
-
-Abra o arquivo `index.html` no navegador — não requer instalação.
 
 ## 🛠️ Tecnologias
 
